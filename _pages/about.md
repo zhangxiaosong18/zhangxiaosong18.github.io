@@ -18,13 +18,11 @@ My email: xszhang@baai.ac.cn
 
 <ul>
 <li style="list-style-type: disc;">
-Harbin Institute of Technology, Weihai, Sept. 2014 - Jul. 2018  
-B.S. in School of Information Science and Engineering
+Harbin Institute of Technology, Weihai, Sept. 2014 - Jul. 2018<br>B.S. in School of Information Science and Engineering
 </li>
 
 <li style="list-style-type: disc;">
-University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023  
-Ph.D. student in School of Electronic, Electrical and Communication Engineering
+University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023<br>Ph.D. student in School of Electronic, Electrical and Communication Engineering
 </li>
 </ul>
 
