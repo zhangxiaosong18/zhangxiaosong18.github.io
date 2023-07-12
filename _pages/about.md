@@ -18,23 +18,25 @@ My email: xszhang@baai.ac.cn
 
 <ul>
 <li style="list-style-type: disc;">
-Harbin Institute of Technology, Weihai, Sept. 2014 - Jul. 2018
+Harbin Institute of Technology, Weihai, Sept. 2014 - Jul. 2018  
 B.S. in School of Information Science and Engineering
 </li>
 
 <li style="list-style-type: disc;">
-University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023
+University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023  
 Ph.D. student in School of Electronic, Electrical and Communication Engineering
 </li>
 </ul>
 
 ## Recent Projects
 
-Xinlong Wang^, **Xiaosong Zhang^**, Yue Cao^, Wen Wang, Chunhua Shen, Tiejun Huang. SegGPT: Segmenting Everything In Context. arXiv:2304.03284.
+Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, **Xiaosong Zhang\***, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/pdf/2307.05222). arXiv:2307.05222.
+
+Xinlong Wang\*, **Xiaosong Zhang\***, Yue Cao\*, Wen Wang, Chunhua Shen, Tiejun Huang. [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284). arXiv:2304.03284.
 
 ## First-author Publications
 
-**Xiaosong Zhang^**, Yunjie Tian^, Wei Huang, Qixiang Ye, Qi Dai, Lingxi Xie, Qi Tian. [HiViT: A Simpler and More Efficient Design of Hierarchical Vision Transformer](https://openreview.net/pdf?id=3F6I-0-57SC). ICLR 2023.
+**Xiaosong Zhang\***, Yunjie Tian\*, Wei Huang, Qixiang Ye, Qi Dai, Lingxi Xie, Qi Tian. [HiViT: A Simpler and More Efficient Design of Hierarchical Vision Transformer](https://openreview.net/pdf?id=3F6I-0-57SC). ICLR 2023.
 
 **Xiaosong Zhang**, Fang Wan, Chang Liu, Xiangyang Ji and Qixiang Ye. [Learning to Match Anchors for Visual Object Detection](https://ieeexplore.ieee.org/document/9321141). TPAMI 2021.
 
