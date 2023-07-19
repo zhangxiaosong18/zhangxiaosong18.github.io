@@ -30,9 +30,11 @@ University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023<br>Ph.D. stude
 
 Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, **Xiaosong Zhang\***, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. [Generative Pretraining in Multimodality](https://arxiv.org/pdf/2307.05222). arXiv:2307.05222.
 
-Xinlong Wang\*, **Xiaosong Zhang\***, Yue Cao\*, Wen Wang, Chunhua Shen, Tiejun Huang. [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284). arXiv:2304.03284.
+Xinlong Wang\*, **Xiaosong Zhang\***, Yue Cao\*, Wen Wang, Chunhua Shen, Tiejun Huang. [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284). ICCV 2023.
 
 ## First-author Publications
+
+Feng Liu\*, **Xiaosong Zhang\***, Zhiliang Peng, Zonghao Guo, Fang Wan, Xiangyang Ji, Qixiang Ye. [Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection](https://arxiv.org/pdf/2205.09613). ICCV 2023.
 
 **Xiaosong Zhang\***, Yunjie Tian\*, Wei Huang, Qixiang Ye, Qi Dai, Lingxi Xie, Qi Tian. [HiViT: A Simpler and More Efficient Design of Hierarchical Vision Transformer](https://openreview.net/pdf?id=3F6I-0-57SC). ICLR 2023.
 
