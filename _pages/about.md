@@ -28,7 +28,7 @@ University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023<br>Ph.D. stude
 
 ## Recent Projects
 
-Quan Sun\*, Jinsheng Wang\*, Qiying Yu\*, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang. EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters. arXiv:2402.04252.<br>[[arxiv]](https://arxiv.org/pdf/2402.04252)
+Quan Sun\*, Jinsheng Wang\*, Qiying Yu\*, Yufeng Cui, Fan Zhang, **Xiaosong Zhang**, Xinlong Wang. EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters. arXiv:2402.04252.<br>[[arxiv]](https://arxiv.org/pdf/2402.04252)
 
 Quan Sun\*, Yufeng Cui\*, **Xiaosong Zhang\***, Fan Zhang\*, Qiying Yu\*, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang. Generative Multimodal Models are In-Context Learners. CVPR 2024.<br>[[arxiv]](https://arxiv.org/pdf/2312.13286) [[code]](https://github.com/baaivision/Emu) [[demo]](https://emu.ssi.plus/) [[project page]](https://baaivision.github.io/emu2)
 
