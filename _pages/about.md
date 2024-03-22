@@ -28,11 +28,13 @@ University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023<br>Ph.D. stude
 
 ## Recent Projects
 
-Quan Sun\*, Yufeng Cui\*, **Xiaosong Zhang\***, Fan Zhang\*, Qiying Yu\*, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang. Generative Multimodal Models are In-Context Learners. arXiv:2312.13286.<br>[[arxiv]](https://arxiv.org/pdf/2312.13286) [[code]](https://github.com/baaivision/Emu) [[demo]](https://emu.ssi.plus/) [[project page]](https://baaivision.github.io/emu2)
+Quan Sun\*, Jinsheng Wang\*, Qiying Yu\*, Yufeng Cui, Fan Zhang, Xiaosong Zhang, Xinlong Wang. EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters. arXiv:2402.04252.<br>[[arxiv]](https://arxiv.org/pdf/2402.04252)
 
-Qiying Yu\*, Quan Sun\*, **Xiaosong Zhang**, Yufeng Cui, Fan Zhang, Xinlong Wang, Jingjing Liu. CapsFusion: Rethinking Image-Text Data at Scale. arXiv:2310.20550.<br>[[arxiv]](https://arxiv.org/pdf/2310.20550) [[code&data]](https://github.com/baaivision/CapsFusion)
+Quan Sun\*, Yufeng Cui\*, **Xiaosong Zhang\***, Fan Zhang\*, Qiying Yu\*, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang. Generative Multimodal Models are In-Context Learners. CVPR 2024.<br>[[arxiv]](https://arxiv.org/pdf/2312.13286) [[code]](https://github.com/baaivision/Emu) [[demo]](https://emu.ssi.plus/) [[project page]](https://baaivision.github.io/emu2)
 
-Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, **Xiaosong Zhang\***, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. Generative Pretraining in Multimodality. arXiv:2307.05222.<br>[[arxiv]](https://arxiv.org/pdf/2307.05222) [[code]](https://github.com/baaivision/Emu)
+Qiying Yu\*, Quan Sun\*, **Xiaosong Zhang**, Yufeng Cui, Fan Zhang, Xinlong Wang, Jingjing Liu. CapsFusion: Rethinking Image-Text Data at Scale. CVPR 2024.<br>[[arxiv]](https://arxiv.org/pdf/2310.20550) [[code&data]](https://github.com/baaivision/CapsFusion)
+
+Quan Sun\*, Qiying Yu\*, Yufeng Cui\*, Fan Zhang\*, **Xiaosong Zhang\***, Yueze Wang, Hongcheng Gao, Jingjing Liu, Tiejun Huang, Xinlong Wang. Generative Pretraining in Multimodality. ICLR 2024.<br>[[arxiv]](https://arxiv.org/pdf/2307.05222) [[code]](https://github.com/baaivision/Emu)
 
 Xinlong Wang\*, **Xiaosong Zhang\***, Yue Cao\*, Wen Wang, Chunhua Shen, Tiejun Huang. SegGPT: Segmenting Everything In Context. ICCV 2023.<br>[[arxiv]](https://arxiv.org/pdf/2304.03284) [[code]](https://github.com/baaivision/Painter) [[demo]](https://huggingface.co/spaces/BAAI/SegGPT)
 
