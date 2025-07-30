@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Beijing Academy of Artificial Intelligence (BAAI)](https://www.baai.ac.cn/english.html). I received my PhD degree from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). 
+I am currently a researcher at Tencent, focusing on unified multimodal models. Prior to this, I was a researcher at the Beijing Academy of Artificial Intelligence (BAAI). I received my PhD degree from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). 
 
-My research background includes vision foundational models, object detection, and self-supervised pretraining. I am currently immersed in researching large multimodal models, with a specific focus on empowering machines with general intelligence. 
-
-My email: xszhang@baai.ac.cn
+My email: zhangxiaosong18@mails.ucas.ac.cn
 
 ## Education
 
@@ -27,6 +25,8 @@ University of Chinese Academy of Sciences, Sept. 2018 - Jul. 2023<br>Ph.D. stude
 </ul>
 
 ## Recent Projects
+
+Zigang Geng\*, Yibing Wang\*, Yeyao Ma, Chen Li, Yongming Rao, Shuyang Gu, Zhao Zhong, Qinglin Lu, Han Hu, **Xiaosong Zhang**, Linus, Di Wang, Jie Jiang. X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again. arXiv:2507.22058.<br>[[arxiv]](https://arxiv.org/pdf/2507.22058) [[code]](https://github.com/X-Omni-Team/X-Omni) [[model]](https://huggingface.co/collections/X-Omni/x-omni-models-6888aadcc54baad7997d7982) [[demo]](https://huggingface.co/collections/X-Omni/x-omni-spaces-6888c64f38446f1efc402de7) [[project page]](https://x-omni-team.github.io)
 
 Quan Sun\*, Jinsheng Wang\*, Qiying Yu\*, Yufeng Cui, Fan Zhang, **Xiaosong Zhang**, Xinlong Wang. EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters. arXiv:2402.04252.<br>[[arxiv]](https://arxiv.org/pdf/2402.04252)
 
