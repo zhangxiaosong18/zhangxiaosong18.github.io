@@ -12,7 +12,7 @@ I am currently a researcher at [Tencent](https://www.tencent.com/en-us/), focusi
 
 🔥 We are seeking interns to join our team and contribute to the development of unified multimodal models. If you're interested in collaborating with us on this exciting work, don't hesitate to reach out!
 
-My email: zhangxiaosong18@mails.ucas.ac.cn
+My email: [zhangxiaosong18@mails.ucas.ac.cn](mailto:zhangxiaosong18@mails.ucas.ac.cn)
 
 ## Education
 
