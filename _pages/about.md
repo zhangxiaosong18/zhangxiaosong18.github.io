@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a researcher at Tencent, focusing on unified multimodal models. Prior to this, I was a researcher at the Beijing Academy of Artificial Intelligence (BAAI). I received my PhD degree from the [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), supervised by [Prof. Qixiang Ye](http://people.ucas.ac.cn/~0007279?language=en). 
 
+🔥 We are seeking interns to join our team and contribute to the development of unified multimodal models. If you're interested in collaborating with us on this exciting work, don't hesitate to reach out!
+
 My email: zhangxiaosong18@mails.ucas.ac.cn
 
 ## Education
